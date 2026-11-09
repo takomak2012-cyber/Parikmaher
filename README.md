@@ -4,8 +4,8 @@
 
 - Сайт: https://takomak2012-cyber.github.io/Parikmaher/
 - Приложение в RuStore: https://rustore.ru/catalog/app/ru.parikmaher.app
-- Исходный код приложения: https://github.com/takomak2012-cyber/ParikmaherAndroid
-- Версия приложения: 2.11
+- Готовый APK: https://github.com/takomak2012-cyber/Parikmaher/releases/latest
+- Версия приложения: 2.14
 - Политика конфиденциальности: https://takomak2012-cyber.github.io/Parikmaher/privacy.html
 
 ## Структура
